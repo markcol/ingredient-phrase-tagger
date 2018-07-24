@@ -1,0 +1,7 @@
+[package]
+name = "ingredient_phrase_tagger"
+version = "0.1.0"
+authors = ["Mark H. Colburn <colburn.mark@gmail.com>"]
+
+[dependencies]
+lazy_static = "1.0"
